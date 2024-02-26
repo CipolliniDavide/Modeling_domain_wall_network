@@ -3,13 +3,15 @@ This project contains all files necessary to reproduce results in the article
 Sec. Semiconducting Materials and Devices
 Volume 11 - 2024 | https://doi.org/10.3389/fmats.2024.1323153**
 
-The DW network dataset used is in folder [Dataset](Dataset)/[GroundTruth2](Dataset%2FGroundTruth2).
-Data obtained trough the optimization are included in folder [data](data).
+Raw data JR38_CoCr_6_70000.ibw included in this repository are the product of the experimental work of Jan Rieck and Prof. dr Beatriz Noheda already published in _Rieck et al. (2022). Ferroelastic Domain Walls in BiFeO3 as Memristive Networks. In Advanced Intelligent Systems. Wiley | https://doi.org/10.1002/aisy.202200292_.
 
 Part of the code included in this repository was developed by Andele Swierstra as part of his Master Project at the University of Groningen.
 The C++ code for junction detection is from _Junction detection in handwritten documents and its application to writer identification_, He, Wiering and Schomaker,
 Pattern Recognition,
 2015 | https://doi.org/10.1016/j.patcog.2015.05.022. Code available in Zenodo https://zenodo.org/records/10708418.
+
+The manually annoted DW network dataset is in folder [Dataset](Dataset)/[GroundTruth2](Dataset%2FGroundTruth2).
+Data obtained trough the optimization are included in folder [data](data).
 
 Data and figures used in the paper are gathered in folder [data_and_figures_in_paper](data_and_figures_in_paper), but can also be found 
 in [data](data) and [Figures_test](Figures_test) together with results obtained setting larger number of iterations 
