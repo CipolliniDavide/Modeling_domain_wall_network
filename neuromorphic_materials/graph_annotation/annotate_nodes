@@ -1,0 +1,27 @@
+#! /usr/bin/env python3
+
+import logging
+import logging.config
+import sys
+
+from src.node_annotator.arg_parser import NodeAnnotatorParser
+from src.node_annotator.node_annotator import NodeAnnotator
+
+
+def main() -> None:
+    args = NodeAnnotatorParser().parse_args()
+    na = NodeAnnotator()
+
+    logging.basicConfig(
+        stream=sys.stderr, level=logging.DEBUG if args.debug else logging.WARNING
+    )
+    logging.config.dictConfig({"version": 1, "disable_existing_loggers": True})
+
+    if args.sample_file is not None:
+        na.open_sample_from_path(args.sample_file)
+
+    na.start()
+
+
+if __name__ == "__main__":
+    main()

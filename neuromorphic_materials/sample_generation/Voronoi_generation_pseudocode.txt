@@ -1,0 +1,13 @@
+Parameters: iteration count (C), sample size (M), number of sites (N), horizontal probability (p), Chebyshev scaling (b)
+
+1. Create an empty sample image S of size M x M
+2. Generate N numbered Voronoi sites Vi = {V_0, ..., V_{N-1}}. For each site:
+     Randomly assign a coordinates x_i and y_i from a uniform distribution on the interval [0, M]
+     Randomly assign Chebyshev scaling b with probability p, or 1/b with probability (1-p)
+3. For each position Sab in the image, compute the scaled Chebyshev distance to all sites as follows:
+     D(V, S_{ab}) = max(1/b * abs(V_x - a), b * abs(V_y - b)), where V_x and V_y are the site coordinates and a and b are the pixel coordinates of S_{ab}
+     Assign S_{ab} = argmin(D(V_i, S_{ab})) with i = {0, ..., N-1}, a = {0, ..., M-1}, and b = {0, ..., M-1}
+4. Recompute the coordinates of all sites such that the new coordinates correspond to the centroid of all pixel coordinates that were assigned the site's index:
+     x_i = 1/L * sum(a for all S_{ab} == i) and y_i = 1/L * sum(b for all S_{ab} == i) with i = {0, ..., N-1} and L = (number of pixel locations with S_{ab} == i)
+5. Recompute S by repeating step 3.
+5. Repeat steps 4 and 5 a total of C times.

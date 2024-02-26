@@ -1,0 +1,407 @@
+
+Args:
+	 {'beta_range': (-3, 4, 300),
+ 'bfo_graph_dir': PosixPath('/home3/p304102/Bfo_network/Dataset/GroundTruth2.0/ground_truth_GraphML'),
+ 'junclets_executable_path': PosixPath('/home3/p304102/Bfo_network/neuromorphic_materials/junction_graph_extraction/beyondOCR_junclets/my_junc'),
+ 'merge_nodes_epsilon': 1.4,
+ 'n_iterations': 20,
+ 'num_generations': 51,
+ 'processes': 10,
+ 'save_dir': PosixPath('/home3/p304102/Bfo_network/data/iter20_eps1.4/voronoi_gads15'),
+ 'use_normalized_se': False,
+ 'use_se_gradient': False} 
+
+Len dataset 25
+(300,) 4.67198005964799 1.160763336259463e-13
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Generation 1 took 9.89min
+Best solution fitness: 1.0410
+Best solution params:
+  site_linear_density=0.3768
+  p_horizontal=0.1648
+  horizontal_beta=2.9863
+
+Generation 2 took 4.84min
+Best solution fitness: 1.3303
+Best solution params:
+  site_linear_density=0.3768
+  p_horizontal=0.1648
+  horizontal_beta=2.9863
+
+Voronoi Generation Error occurred
+Generation 3 took 4.59min
+Best solution fitness: 1.8289
+Best solution params:
+  site_linear_density=0.4279
+  p_horizontal=0.0946
+  horizontal_beta=2.9968
+
+Generation 4 took 4.62min
+Best solution fitness: 2.9528
+Best solution params:
+  site_linear_density=0.4279
+  p_horizontal=0.0946
+  horizontal_beta=2.9189
+
+Voronoi Generation Error occurred
+Generation 5 took 3.96min
+Best solution fitness: 1.6832
+Best solution params:
+  site_linear_density=0.3768
+  p_horizontal=0.1648
+  horizontal_beta=2.9863
+
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Generation 6 took 3.69min
+Best solution fitness: 2.2215
+Best solution params:
+  site_linear_density=0.3768
+  p_horizontal=0.1648
+  horizontal_beta=2.9863
+
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Generation 7 took 3.62min
+Best solution fitness: 2.2215
+Best solution params:
+  site_linear_density=0.3768
+  p_horizontal=0.1648
+  horizontal_beta=2.9863
+
+Voronoi Generation Error occurred
+Generation 8 took 3.64min
+Best solution fitness: 4.3639
+Best solution params:
+  site_linear_density=0.3768
+  p_horizontal=0.1648
+  horizontal_beta=2.9863
+
+Generation 9 took 3.79min
+Best solution fitness: 2.7816
+Best solution params:
+  site_linear_density=0.3768
+  p_horizontal=0.1648
+  horizontal_beta=2.9863
+
+Voronoi Generation Error occurred
+Generation 10 took 3.94min
+Best solution fitness: 2.7816
+Best solution params:
+  site_linear_density=0.3768
+  p_horizontal=0.1648
+  horizontal_beta=2.9863
+
+Generation 11 took 3.82min
+Best solution fitness: 2.4645
+Best solution params:
+  site_linear_density=0.3768
+  p_horizontal=0.1648
+  horizontal_beta=2.9968
+
+Generation 12 took 3.66min
+Best solution fitness: 2.8149
+Best solution params:
+  site_linear_density=0.3768
+  p_horizontal=0.1648
+  horizontal_beta=2.9968
+
+Generation 13 took 3.67min
+Best solution fitness: 2.3806
+Best solution params:
+  site_linear_density=0.3768
+  p_horizontal=0.1648
+  horizontal_beta=2.9863
+
+Generation 14 took 3.68min
+Best solution fitness: 2.2474
+Best solution params:
+  site_linear_density=0.3768
+  p_horizontal=0.1648
+  horizontal_beta=2.9863
+
+Generation 15 took 3.78min
+Best solution fitness: 1.8139
+Best solution params:
+  site_linear_density=0.3768
+  p_horizontal=0.1648
+  horizontal_beta=2.9968
+
+Voronoi Generation Error occurred
+Generation 16 took 3.77min
+Best solution fitness: 1.9274
+Best solution params:
+  site_linear_density=0.3768
+  p_horizontal=0.1648
+  horizontal_beta=2.9968
+
+Generation 17 took 3.79min
+Best solution fitness: 3.0116
+Best solution params:
+  site_linear_density=0.3768
+  p_horizontal=0.1648
+  horizontal_beta=2.9863
+
+Generation 18 took 3.81min
+Best solution fitness: 2.0528
+Best solution params:
+  site_linear_density=0.3768
+  p_horizontal=0.1648
+  horizontal_beta=2.9863
+
+Voronoi Generation Error occurred
+Generation 19 took 3.64min
+Best solution fitness: 4.0045
+Best solution params:
+  site_linear_density=0.3768
+  p_horizontal=0.1648
+  horizontal_beta=2.9968
+
+Generation 20 took 3.70min
+Best solution fitness: 2.1529
+Best solution params:
+  site_linear_density=0.3768
+  p_horizontal=0.1648
+  horizontal_beta=2.9968
+
+Generation 21 took 4.00min
+Best solution fitness: 4.1466
+Best solution params:
+  site_linear_density=0.3768
+  p_horizontal=0.1625
+  horizontal_beta=2.9863
+
+Generation 22 took 3.75min
+Best solution fitness: 2.7623
+Best solution params:
+  site_linear_density=0.3768
+  p_horizontal=0.1648
+  horizontal_beta=2.9968
+
+Voronoi Generation Error occurred
+Generation 23 took 3.84min
+Best solution fitness: 1.9728
+Best solution params:
+  site_linear_density=0.3768
+  p_horizontal=0.1648
+  horizontal_beta=2.9863
+
+Generation 24 took 3.79min
+Best solution fitness: 3.3851
+Best solution params:
+  site_linear_density=0.3768
+  p_horizontal=0.1648
+  horizontal_beta=2.9968
+
+Voronoi Generation Error occurred
+Generation 25 took 3.64min
+Best solution fitness: 3.0116
+Best solution params:
+  site_linear_density=0.3768
+  p_horizontal=0.1648
+  horizontal_beta=2.9863
+
+Voronoi Generation Error occurred
+Generation 26 took 3.84min
+Best solution fitness: 2.7816
+Best solution params:
+  site_linear_density=0.3768
+  p_horizontal=0.1648
+  horizontal_beta=2.9863
+
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Generation 27 took 3.59min
+Best solution fitness: 1.7442
+Best solution params:
+  site_linear_density=0.3768
+  p_horizontal=0.1648
+  horizontal_beta=2.9863
+
+Voronoi Generation Error occurred
+Generation 28 took 3.78min
+Best solution fitness: 1.8139
+Best solution params:
+  site_linear_density=0.3768
+  p_horizontal=0.1648
+  horizontal_beta=2.9968
+
+Generation 29 took 3.59min
+Best solution fitness: 2.6320
+Best solution params:
+  site_linear_density=0.3768
+  p_horizontal=0.1430
+  horizontal_beta=2.9968
+
+Voronoi Generation Error occurred
+Generation 30 took 3.62min
+Best solution fitness: 1.9358
+Best solution params:
+  site_linear_density=0.3768
+  p_horizontal=0.1648
+  horizontal_beta=2.9968
+
+Generation 31 took 3.70min
+Best solution fitness: 2.9098
+Best solution params:
+  site_linear_density=0.3768
+  p_horizontal=0.1648
+  horizontal_beta=2.9968
+
+Generation 32 took 3.83min
+Best solution fitness: 1.9623
+Best solution params:
+  site_linear_density=0.3768
+  p_horizontal=0.1648
+  horizontal_beta=2.9968
+
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Generation 33 took 3.61min
+Best solution fitness: 4.5402
+Best solution params:
+  site_linear_density=0.3768
+  p_horizontal=0.1648
+  horizontal_beta=2.9968
+
+Generation 34 took 3.80min
+Best solution fitness: 2.8232
+Best solution params:
+  site_linear_density=0.3768
+  p_horizontal=0.1648
+  horizontal_beta=2.9968
+
+Voronoi Generation Error occurred
+Generation 35 took 3.76min
+Best solution fitness: 2.6320
+Best solution params:
+  site_linear_density=0.3768
+  p_horizontal=0.1430
+  horizontal_beta=2.9968
+
+Generation 36 took 3.72min
+Best solution fitness: 2.0198
+Best solution params:
+  site_linear_density=0.3768
+  p_horizontal=0.1648
+  horizontal_beta=2.9968
+
+Generation 37 took 3.71min
+Best solution fitness: 2.2128
+Best solution params:
+  site_linear_density=0.3768
+  p_horizontal=0.1648
+  horizontal_beta=2.9968
+
+Generation 38 took 3.69min
+Best solution fitness: 1.9374
+Best solution params:
+  site_linear_density=0.3768
+  p_horizontal=0.1648
+  horizontal_beta=2.9968
+
+Voronoi Generation Error occurred
+Generation 39 took 3.76min
+Best solution fitness: 2.2128
+Best solution params:
+  site_linear_density=0.3768
+  p_horizontal=0.1648
+  horizontal_beta=2.9968
+
+Generation 40 took 3.98min
+Best solution fitness: 2.7760
+Best solution params:
+  site_linear_density=0.3768
+  p_horizontal=0.1469
+  horizontal_beta=2.9968
+
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Generation 41 took 3.61min
+Best solution fitness: 1.9661
+Best solution params:
+  site_linear_density=0.3768
+  p_horizontal=0.1649
+  horizontal_beta=2.9968
+
+Generation 42 took 3.75min
+Best solution fitness: 3.6141
+Best solution params:
+  site_linear_density=0.3768
+  p_horizontal=0.1649
+  horizontal_beta=2.9968
+
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Generation 43 took 3.75min
+Best solution fitness: 3.0720
+Best solution params:
+  site_linear_density=0.3511
+  p_horizontal=0.1648
+  horizontal_beta=2.9968
+
+Generation 44 took 3.57min
+Best solution fitness: 4.5402
+Best solution params:
+  site_linear_density=0.3768
+  p_horizontal=0.1648
+  horizontal_beta=2.9968
+
+Generation 45 took 3.72min
+Best solution fitness: 2.2646
+Best solution params:
+  site_linear_density=0.3768
+  p_horizontal=0.1648
+  horizontal_beta=2.9968
+
+Generation 46 took 3.73min
+Best solution fitness: 2.1333
+Best solution params:
+  site_linear_density=0.3768
+  p_horizontal=0.8253
+  horizontal_beta=2.9968
+
+Generation 47 took 3.83min
+Best solution fitness: 2.0198
+Best solution params:
+  site_linear_density=0.3768
+  p_horizontal=0.1648
+  horizontal_beta=2.9968
+
+Generation 48 took 3.69min
+Best solution fitness: 2.9044
+Best solution params:
+  site_linear_density=0.3768
+  p_horizontal=0.1648
+  horizontal_beta=2.9968
+
+Generation 49 took 3.94min
+Best solution fitness: 2.2031
+Best solution params:
+  site_linear_density=0.3768
+  p_horizontal=0.1648
+  horizontal_beta=2.9968
+
+Generation 50 took 3.82min
+Best solution fitness: 2.3183
+Best solution params:
+  site_linear_density=0.3768
+  p_horizontal=0.8362
+  horizontal_beta=2.9968
+
+Voronoi Generation Error occurred
+Generation 51 took 3.64min
+Best solution fitness: 3.3851
+Best solution params:
+  site_linear_density=0.3768
+  p_horizontal=0.1648
+  horizontal_beta=2.9968
+
+GA took 8.33 hours
+[0.3767715  0.16475586 2.99683149]

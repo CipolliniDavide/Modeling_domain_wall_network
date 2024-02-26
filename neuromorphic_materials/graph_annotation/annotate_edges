@@ -1,0 +1,27 @@
+#! /usr/bin/env python3
+
+import logging
+import logging.config
+import sys
+
+from src.edge_annotator.arg_parser import EdgeAnnotatorParser
+from src.edge_annotator.edge_annotator import EdgeAnnotator
+
+
+def main() -> None:
+    args = EdgeAnnotatorParser().parse_args()
+    ea = EdgeAnnotator()
+
+    logging.basicConfig(
+        stream=sys.stderr, level=logging.DEBUG if args.debug else logging.WARNING
+    )
+    logging.config.dictConfig({"version": 1, "disable_existing_loggers": True})
+
+    if args.sample_files is not None:
+        ea.open_sample_from_paths(*args.sample_files)
+
+    ea.start()
+
+
+if __name__ == "__main__":
+    main()
