@@ -62,7 +62,7 @@ figures_svp=Figures_test/Results_GroundTruth2_Grid
 # Number of gaussians might change if new optimization process has been run. Look at the histogram
 # and pick the desired number of gaussians heuristically.
 num_gaussians=6
-p_th=.6 # Might change if most trajectory converge to p<.5. In such a case choose something like p_th=.4 or .35.
+p_th=.6 # Might need to be adjusted if most of the trajectories converge to p<.5. In such a case choose something like p_th=.4 or .35.
 
 python ${root}/neuromorphic_materials/graph_similarity/scripts/make_plot_after_multiple_optimization_processes.py \
 -load ${load_path} \
