@@ -13,9 +13,7 @@ Pattern Recognition,
 The manually annoted DW network dataset is in folder [Dataset](Dataset)/[GroundTruth2](Dataset%2FGroundTruth2).
 Data obtained trough the optimization are included in folder [data](data).
 
-Data and figures used in the paper are gathered in folder [data_and_figures_in_paper](data_and_figures_in_paper), but can also be found 
-in [data](data) and [Figures_test](Figures_test) together with results obtained setting larger number of iterations 
-(n_iterations=20) to reach full convergence in the tesselation (see also comments in [run_geneticoptimization.sh](run_geneticoptimization.sh)).
+Data and figures utilized in the paper are gathered in the folder [data_and_figures_in_paper](data_and_figures_in_paper). Additionally, they can be accessed in [data](data) and [Figures_test](Figures_test), along with the results obtained by setting a larger number of iterations (n_iter=20) in the tessellation. For further details, refer to the comments in [run_geneticoptimization.sh](run_geneticoptimization.sh).
 
 # How to reproduce results in the paper
 1) Crop the samples to produce 25 crops:
