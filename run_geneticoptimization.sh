@@ -66,7 +66,7 @@ p_th=.6 # Might need to be adjusted if most of the trajectories converge to p<.5
 
 python ${root}/neuromorphic_materials/graph_similarity/scripts/make_plot_after_multiple_optimization_processes.py \
 -load ${load_path} \
--svp ${root}/${figures_svp}/optimization/iter${n_iterations}_eps${eps}/ \
+-svp ${root}/${figures_svp}/optimization_nGauss${num_gaussians}/iter${n_iterations}_eps${eps}/ \
 -figform .pdf \
 -n_gauss ${num_gaussians} \
 -p_th ${p_th}

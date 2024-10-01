@@ -136,4 +136,14 @@ In `neuromorphic_materials/sample_generation/voronoi_test.py` added:
 Nevertheless, actual speed up is not guaranteed.
 
 
+# Extended Dataset for Thesis Chapter 4
+
+This repository has been updated to contain the Dataset [GroundTruth3](Dataset/GroundTruth3), which contains the Grid dataset
+[GroundTruth3](Dataset/GroundTruth3), but also the Rand dataset that includes random crops, and the mixed dataset of 40 samples
+containing both grid and random crops.
+
+I added the synthetic dataset [Voronoi128_d0.34_p0.16_beta2.94](Dataset/Voronoi128_d0.34_p0.16_beta2.94), 
+the data produced during the genetic optimization [GroundTruth3_Grid_Rand](data/GroundTruth3_Grid_Rand),
+and the figures obtained from the analysis of results [Results_GroundTruth3_GridRand](Figures_test/Results_GroundTruth3_GridRand).
+
 

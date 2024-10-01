@@ -1,0 +1,867 @@
+
+Args:
+	 {'beta_range': (-3, 4, 300),
+ 'bfo_graph_dir': PosixPath('/home3/p304102/Bfo_network/Dataset/GroundTruth3.0/Grid_Rand/graphml'),
+ 'junclets_executable_path': PosixPath('/home3/p304102/Bfo_network/neuromorphic_materials/junction_graph_extraction/beyondOCR_junclets/my_junc'),
+ 'merge_nodes_epsilon': 1.4,
+ 'n_iterations': 20,
+ 'num_generations': 51,
+ 'processes': 10,
+ 'save_dir': PosixPath('/home3/p304102/Bfo_network/data/GroundTruth3.0_Grid_Rand/iter20_eps1.4/voronoi_gads1'),
+ 'use_normalized_se': False,
+ 'use_se_gradient': False} 
+
+Len dataset 40
+(300,) 4.557248884759446 7.254619688849716e-14
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Generation 1 took 14.45min
+Best solution fitness: 1.6597
+Best solution params:
+  site_linear_density=0.3983
+  p_horizontal=0.0945
+  horizontal_beta=2.9711
+
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Generation 2 took 6.44min
+Best solution fitness: 2.9295
+Best solution params:
+  site_linear_density=0.3983
+  p_horizontal=0.0945
+  horizontal_beta=2.9711
+
+Voronoi Generation Error occurred
+Generation 3 took 7.18min
+Best solution fitness: 3.3087
+Best solution params:
+  site_linear_density=0.3983
+  p_horizontal=0.0945
+  horizontal_beta=2.9711
+
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Generation 4 took 6.84min
+Best solution fitness: 3.5303
+Best solution params:
+  site_linear_density=0.3983
+  p_horizontal=0.0945
+  horizontal_beta=2.9711
+
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Generation 5 took 6.06min
+Best solution fitness: 5.2439
+Best solution params:
+  site_linear_density=0.3983
+  p_horizontal=0.0996
+  horizontal_beta=2.9711
+
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Generation 6 took 6.18min
+Best solution fitness: 5.2271
+Best solution params:
+  site_linear_density=0.3983
+  p_horizontal=0.0945
+  horizontal_beta=2.9711
+
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Generation 7 took 5.71min
+Best solution fitness: 4.5267
+Best solution params:
+  site_linear_density=0.3983
+  p_horizontal=0.0945
+  horizontal_beta=2.9711
+
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Generation 8 took 6.10min
+Best solution fitness: 4.5994
+Best solution params:
+  site_linear_density=0.3983
+  p_horizontal=0.0945
+  horizontal_beta=2.9711
+
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Generation 9 took 5.39min
+Best solution fitness: 5.8037
+Best solution params:
+  site_linear_density=0.3983
+  p_horizontal=0.0945
+  horizontal_beta=2.9711
+
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Generation 10 took 5.83min
+Best solution fitness: 6.8940
+Best solution params:
+  site_linear_density=0.3983
+  p_horizontal=0.0945
+  horizontal_beta=2.9711
+
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Generation 11 took 7.09min
+Best solution fitness: 5.3199
+Best solution params:
+  site_linear_density=0.3983
+  p_horizontal=0.8948
+  horizontal_beta=2.9711
+
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Generation 12 took 5.76min
+Best solution fitness: 4.5267
+Best solution params:
+  site_linear_density=0.3983
+  p_horizontal=0.0945
+  horizontal_beta=2.9711
+
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Generation 13 took 6.08min
+Best solution fitness: 4.5267
+Best solution params:
+  site_linear_density=0.3983
+  p_horizontal=0.0945
+  horizontal_beta=2.9711
+
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Generation 14 took 5.91min
+Best solution fitness: 4.7375
+Best solution params:
+  site_linear_density=0.3983
+  p_horizontal=0.0951
+  horizontal_beta=2.9711
+
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Generation 15 took 5.67min
+Best solution fitness: 5.1991
+Best solution params:
+  site_linear_density=0.3983
+  p_horizontal=0.0945
+  horizontal_beta=2.9711
+
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Generation 16 took 5.58min
+Best solution fitness: 4.7375
+Best solution params:
+  site_linear_density=0.3983
+  p_horizontal=0.0951
+  horizontal_beta=2.9711
+
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Generation 17 took 5.75min
+Best solution fitness: 5.2271
+Best solution params:
+  site_linear_density=0.3983
+  p_horizontal=0.0945
+  horizontal_beta=2.9711
+
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Generation 18 took 5.57min
+Best solution fitness: 4.7375
+Best solution params:
+  site_linear_density=0.3983
+  p_horizontal=0.0951
+  horizontal_beta=2.9711
+
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Generation 19 took 5.40min
+Best solution fitness: 5.1939
+Best solution params:
+  site_linear_density=0.3983
+  p_horizontal=0.0945
+  horizontal_beta=2.9711
+
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Generation 20 took 5.47min
+Best solution fitness: 5.0373
+Best solution params:
+  site_linear_density=0.3983
+  p_horizontal=0.8957
+  horizontal_beta=2.9711
+
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Generation 21 took 5.57min
+Best solution fitness: 5.0505
+Best solution params:
+  site_linear_density=0.3983
+  p_horizontal=0.0951
+  horizontal_beta=2.9711
+
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Generation 22 took 5.57min
+Best solution fitness: 4.7375
+Best solution params:
+  site_linear_density=0.3983
+  p_horizontal=0.0951
+  horizontal_beta=2.9711
+
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Generation 23 took 5.94min
+Best solution fitness: 4.7375
+Best solution params:
+  site_linear_density=0.3983
+  p_horizontal=0.0951
+  horizontal_beta=2.9711
+
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Generation 24 took 5.65min
+Best solution fitness: 5.0373
+Best solution params:
+  site_linear_density=0.3983
+  p_horizontal=0.8957
+  horizontal_beta=2.9711
+
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Generation 25 took 5.91min
+Best solution fitness: 4.7375
+Best solution params:
+  site_linear_density=0.3983
+  p_horizontal=0.0951
+  horizontal_beta=2.9711
+
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Generation 26 took 5.77min
+Best solution fitness: 5.0505
+Best solution params:
+  site_linear_density=0.3983
+  p_horizontal=0.0951
+  horizontal_beta=2.9711
+
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Generation 27 took 5.57min
+Best solution fitness: 5.5818
+Best solution params:
+  site_linear_density=0.3983
+  p_horizontal=0.8957
+  horizontal_beta=2.9711
+
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Generation 28 took 5.78min
+Best solution fitness: 4.7375
+Best solution params:
+  site_linear_density=0.3983
+  p_horizontal=0.0951
+  horizontal_beta=2.9711
+
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Generation 29 took 5.75min
+Best solution fitness: 4.7375
+Best solution params:
+  site_linear_density=0.3983
+  p_horizontal=0.0951
+  horizontal_beta=2.9711
+
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Generation 30 took 6.18min
+Best solution fitness: 5.0679
+Best solution params:
+  site_linear_density=0.3983
+  p_horizontal=0.0951
+  horizontal_beta=2.9711
+
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Generation 31 took 5.61min
+Best solution fitness: 4.7626
+Best solution params:
+  site_linear_density=0.3983
+  p_horizontal=0.0951
+  horizontal_beta=2.9344
+
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Generation 32 took 5.37min
+Best solution fitness: 4.7410
+Best solution params:
+  site_linear_density=0.3983
+  p_horizontal=0.0951
+  horizontal_beta=2.9711
+
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Generation 33 took 5.28min
+Best solution fitness: 4.7375
+Best solution params:
+  site_linear_density=0.3983
+  p_horizontal=0.0951
+  horizontal_beta=2.9711
+
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Generation 34 took 5.21min
+Best solution fitness: 4.7375
+Best solution params:
+  site_linear_density=0.3983
+  p_horizontal=0.0951
+  horizontal_beta=2.9711
+
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Generation 35 took 6.38min
+Best solution fitness: 6.4141
+Best solution params:
+  site_linear_density=0.3983
+  p_horizontal=0.0951
+  horizontal_beta=2.9711
+
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Generation 36 took 5.42min
+Best solution fitness: 4.7375
+Best solution params:
+  site_linear_density=0.3983
+  p_horizontal=0.0951
+  horizontal_beta=2.9711
+
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Generation 37 took 5.53min
+Best solution fitness: 4.7375
+Best solution params:
+  site_linear_density=0.3983
+  p_horizontal=0.0951
+  horizontal_beta=2.9711
+
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Generation 38 took 5.25min
+Best solution fitness: 4.8536
+Best solution params:
+  site_linear_density=0.3983
+  p_horizontal=0.0951
+  horizontal_beta=2.9344
+
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Generation 39 took 5.57min
+Best solution fitness: 4.7375
+Best solution params:
+  site_linear_density=0.3983
+  p_horizontal=0.0951
+  horizontal_beta=2.9711
+
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Generation 40 took 5.52min
+Best solution fitness: 4.7375
+Best solution params:
+  site_linear_density=0.3983
+  p_horizontal=0.0951
+  horizontal_beta=2.9711
+
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Generation 41 took 5.05min
+Best solution fitness: 4.7375
+Best solution params:
+  site_linear_density=0.3983
+  p_horizontal=0.0951
+  horizontal_beta=2.9711
+
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Generation 42 took 4.97min
+Best solution fitness: 4.7375
+Best solution params:
+  site_linear_density=0.3983
+  p_horizontal=0.0951
+  horizontal_beta=2.9711
+
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Generation 43 took 5.52min
+Best solution fitness: 4.7375
+Best solution params:
+  site_linear_density=0.3983
+  p_horizontal=0.0951
+  horizontal_beta=2.9711
+
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Generation 44 took 6.24min
+Best solution fitness: 4.7232
+Best solution params:
+  site_linear_density=0.3983
+  p_horizontal=0.0951
+  horizontal_beta=2.9711
+
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Generation 45 took 5.27min
+Best solution fitness: 4.7436
+Best solution params:
+  site_linear_density=0.3983
+  p_horizontal=0.0951
+  horizontal_beta=2.9344
+
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Generation 46 took 5.57min
+Best solution fitness: 6.8299
+Best solution params:
+  site_linear_density=0.3983
+  p_horizontal=0.0951
+  horizontal_beta=2.9344
+
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Generation 47 took 5.52min
+Best solution fitness: 4.7616
+Best solution params:
+  site_linear_density=0.3983
+  p_horizontal=0.0951
+  horizontal_beta=2.9711
+
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Generation 48 took 5.31min
+Best solution fitness: 6.8299
+Best solution params:
+  site_linear_density=0.3983
+  p_horizontal=0.0951
+  horizontal_beta=2.9344
+
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Generation 49 took 5.17min
+Best solution fitness: 4.8718
+Best solution params:
+  site_linear_density=0.3952
+  p_horizontal=0.0951
+  horizontal_beta=2.9344
+
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Generation 50 took 5.80min
+Best solution fitness: 4.9654
+Best solution params:
+  site_linear_density=0.3983
+  p_horizontal=0.0951
+  horizontal_beta=2.9344
+
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Voronoi Generation Error occurred
+Generation 51 took 5.42min
+Best solution fitness: 6.8299
+Best solution params:
+  site_linear_density=0.3983
+  p_horizontal=0.0951
+  horizontal_beta=2.9344
+
+GA took 12.55 hours
+[0.39829783 0.09507617 2.93442565]

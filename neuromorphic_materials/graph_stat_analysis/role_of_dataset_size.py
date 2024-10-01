@@ -206,7 +206,7 @@ if __name__ == "__main__":
                     # ticks=[sample_sizes[0], 25, 35, 50, 60, 70, 80, 90, sample_sizes[-1]], num=5, valfmt="{x:.0f}",
                     ax_label='Var. of the sample mean\n' + r'$\mathbf{Var(\bar{X}_{N})}$')
     plt.tight_layout()
-    plt.savefig(f'{save_folder}/variance_of_the_mean_of_means.png')
+    plt.savefig(f'{save_folder}/variance_of_the_mean_of_means.pdf')
     plt.show()
 
     # var_of_sample_mean = variance_of_the_sample_mean(arrays_list=spectral_ent_vor,
