@@ -86,7 +86,8 @@ notebook==6.5.4
 notebook_shim==0.2.3
 numdifftools==0.9.41
 numpy==1.24.3
-opencv-python==4.7.0.72
+# Tested version opencv-python==4.7.0.72 upgraded to line below to solve vulnerability issue
+opencv-python==4.8.1.78
 overrides==7.3.1
 packaging==23.1
 pandas==1.5.3
