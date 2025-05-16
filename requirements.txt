@@ -147,7 +147,7 @@ texext==0.6.7
 threadpoolctl==3.1.0
 tifffile==2023.4.12
 tinycss2==1.2.1
-tornado==6.3.2
+tornado>=6.5.0
 tqdm==4.65.0
 traitlets==5.9.0
 typed-argument-parser==1.8.0
