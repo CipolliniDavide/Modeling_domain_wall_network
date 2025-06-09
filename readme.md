@@ -1,14 +1,15 @@
-This project contains all files necessary to reproduce the results in the article 
-**_Modeling a domain wall network in BiFeO3 with stochastic geometry and entropy-based similarity measure_ Cipollini, Swierstra and Schomaker, Front. Mater., 23 January 2024
-Sec. Semiconducting Materials and Devices
-Volume 11 - 2024 | https://doi.org/10.3389/fmats.2024.1323153**
+# Modeling a domain wall network in BiFeO3 with stochastic geometry and entropy-based similarity measure Cipollini
 
 <p align="center">
-  <img src="figS4.jpg" alt="screenshot" width="400">
+  <img src="figS4.jpg" alt="screenshot" width="600">
 </p>
 
 [Figure from Cipollini et. al., Front. Mater., 2024.]
 
+This project contains all files necessary to reproduce the results in the article 
+**_Modeling a domain wall network in BiFeO3 with stochastic geometry and entropy-based similarity measure_ Cipollini, Swierstra and Schomaker, Front. Mater., 23 January 2024
+Sec. Semiconducting Materials and Devices
+Volume 11 - 2024 | https://doi.org/10.3389/fmats.2024.1323153**
 
 Raw data JR38_CoCr_6_70000.ibw included in this repository are the product of the experimental work of Jan Rieck and Prof. dr Beatriz Noheda already published in _Rieck et al. (2022). Ferroelastic Domain Walls in BiFeO3 as Memristive Networks. In Advanced Intelligent Systems. Wiley | https://doi.org/10.1002/aisy.202200292_.
 
