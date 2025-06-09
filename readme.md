@@ -3,7 +3,9 @@ This project contains all files necessary to reproduce the results in the articl
 Sec. Semiconducting Materials and Devices
 Volume 11 - 2024 | https://doi.org/10.3389/fmats.2024.1323153**
 
-![screenshot](figS4.jpg)
+<p align="center">
+  <img src="figS4.jpg" alt="screenshot" width="400">
+</p>
 
 [Figure from Cipollini et. al., Front. Mater., 2024.]
 
