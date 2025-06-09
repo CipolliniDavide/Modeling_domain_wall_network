@@ -3,6 +3,11 @@ This project contains all files necessary to reproduce the results in the articl
 Sec. Semiconducting Materials and Devices
 Volume 11 - 2024 | https://doi.org/10.3389/fmats.2024.1323153**
 
+![screenshot](figS4.jpg)
+
+[Figure from Cipollini et. al., Front. Mater., 2024.]
+
+
 Raw data JR38_CoCr_6_70000.ibw included in this repository are the product of the experimental work of Jan Rieck and Prof. dr Beatriz Noheda already published in _Rieck et al. (2022). Ferroelastic Domain Walls in BiFeO3 as Memristive Networks. In Advanced Intelligent Systems. Wiley | https://doi.org/10.1002/aisy.202200292_.
 
 Part of the code included in this repository was developed by Andele Swierstra as part of his Master Project at the University of Groningen.
