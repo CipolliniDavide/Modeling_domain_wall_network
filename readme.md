@@ -3,8 +3,7 @@
 <p align="center">
   <img src="figS4.jpg" alt="screenshot" width="600">
 </p>
-
-[Figure from Cipollini et. al., Front. Mater., 2024.]
+<p align="center"><em>Figure from Cipollini et al., Front. Mater., 2024.</em></p>
 
 This project contains all files necessary to reproduce the results in the article 
 **_Modeling a domain wall network in BiFeO3 with stochastic geometry and entropy-based similarity measure_ Cipollini, Swierstra and Schomaker, Front. Mater., 23 January 2024
